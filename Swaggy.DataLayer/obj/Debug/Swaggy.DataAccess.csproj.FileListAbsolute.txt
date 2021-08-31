@@ -1,0 +1,23 @@
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\CMAppDataLayer.dll.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\CMAppDataLayer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\CMAppDataLayer.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\Swaggy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\Swaggy.DataAccess.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\CMAppDataLayer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenAppDataLayer\obj\Debug\CMAppDataLayer.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\CMAppDataLayer.dll.config
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\CMAppDataLayer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\CMAppDataLayer.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\EntityFramework.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\EntityFramework.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\obj\Debug\Swaggy.DataAccess.csprojAssemblyReference.cache
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\obj\Debug\Swaggy.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\obj\Debug\Swaggy.DataAccess.csproj.CopyComplete
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\obj\Debug\CMAppDataLayer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.DataLayer\obj\Debug\CMAppDataLayer.pdb

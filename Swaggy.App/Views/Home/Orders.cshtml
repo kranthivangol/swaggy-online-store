@@ -1,0 +1,88 @@
+﻿
+@{
+    ViewBag.Title = "Orders";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>Orders</h2>
+
+@if (ViewBag.OrdersData == null)
+{
+    <br />
+    <div id="EmptyDataMsg" class="alert alert-info">
+        <strong>Welcome!</strong> Our shop Cuisine is currently empty.
+    </div>
+}
+
+
+<div>
+    <table id="t01">
+        <thead>
+        <th>FName</th>
+        <th>LName</th>
+        <th>Phone</th>
+        <th>OrderDate</th>
+        <th>PName</th>
+        <th>Qty</th>
+        <th>TotalSale</th>
+        <th>Brand</th>
+        </thead>
+        @foreach (var item in ViewBag.OrdersData)
+        {
+            <tr>
+                <td>
+                    @item.FName
+                </td>
+                <td>
+                    @item.LName
+                </td>
+                <td>
+                    @item.Phone
+                </td>
+                <td>
+                    @item.OrderDate
+                </td>
+                <td>
+                    @item.PName
+                </td>
+                <td>
+                    @item.Qty
+                </td>
+                <td>
+                    @item.TotalSale
+                </td>
+                <td>
+                    @item.Brand
+                </td>
+            </tr>
+        }
+
+    </table>
+</div>
+<style>
+    table#t01 {
+        width: 100%;
+    }
+
+
+        table#t01 th {
+            background-color: revert;
+        }
+
+    table, th, td {
+        border: 1px solid;
+    }
+
+    table, th, td {
+        border: 1px solid;
+        border-collapse: collapse;
+    }
+
+    table, th, td {
+        border: 1px solid;
+        border-collapse: collapse;
+    }
+
+    th, td {
+        padding: 15px;
+    }
+</style>

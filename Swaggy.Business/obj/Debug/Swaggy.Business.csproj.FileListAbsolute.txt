@@ -1,0 +1,48 @@
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\CMApp.Business.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\CMApp.Business.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\CMAppDataLayer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\CMAppDataLayer.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\CMAppDataLayer.dll.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\AutoMapper.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\obj\Debug\Swaggy.Business.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\obj\Debug\Swaggy.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\obj\Debug\Swaggy.Business.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\obj\Debug\CMApp.Business.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp.Business\obj\Debug\CMApp.Business.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\CMApp.Business.dll
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\CMApp.Business.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\AutoMapper.dll
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\CMAppDataLayer.dll
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\CMAppDataLayer.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\CMAppDataLayer.dll.config
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\AutoMapper.xml
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\swaggy\Swaggy.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\swaggy\Swaggy.Business\obj\Debug\Swaggy.Business.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\swaggy\Swaggy.Business\obj\Debug\Swaggy.Business.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\swaggy\Swaggy.Business\obj\Debug\Swaggy.Business.csproj.CopyComplete
+C:\Users\user\Desktop\swaggy\Swaggy.Business\obj\Debug\CMApp.Business.dll
+C:\Users\user\Desktop\swaggy\Swaggy.Business\obj\Debug\CMApp.Business.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\CMApp.Business.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\CMApp.Business.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\AutoMapper.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\CMAppDataLayer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\EntityFramework.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\CMAppDataLayer.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\CMAppDataLayer.dll.config
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\AutoMapper.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\EntityFramework.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\obj\Debug\Swaggy.Business.csprojAssemblyReference.cache
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\obj\Debug\Swaggy.Business.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\obj\Debug\Swaggy.Business.csproj.CopyComplete
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\obj\Debug\CMApp.Business.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.Business\obj\Debug\CMApp.Business.pdb

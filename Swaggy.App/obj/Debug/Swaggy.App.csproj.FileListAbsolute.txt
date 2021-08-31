@@ -1,0 +1,376 @@
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\ApplicationInsights.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\csc.exe
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\vbc.exe
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMApp.dll.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMApp.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMApp.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Antlr3.Runtime.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\AutoMapper.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Chart.Mvc.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMApp.Business.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMAppDataLayer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\EntityFramework.SqlServer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.Web.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Newtonsoft.Json.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Owin.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Helpers.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Mvc.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Optimization.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Razor.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.WebPages.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\WebGrease.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMApp.Business.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMAppDataLayer.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\CMAppDataLayer.dll.config
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\AutoMapper.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Chart.Mvc.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Chart.Mvc.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.Web.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Newtonsoft.Json.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Helpers.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Mvc.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Optimization.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.Razor.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.WebPages.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Antlr3.Runtime.pdb
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\EntityFramework.SqlServer.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\obj\Debug\Swaggy.App.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\obj\Debug\Swaggy.App.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\obj\Debug\Swaggy.App.csproj.CopyComplete
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\obj\Debug\CMApp.dll
+C:\Users\user\OneDrive\Desktop\App2\App1\Canteen-Management-App-main\CanteenApp\obj\Debug\CMApp.pdb
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\ApplicationInsights.config
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\csc.exe
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMApp.dll.config
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMApp.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMApp.pdb
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\AutoMapper.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Chart.Mvc.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMApp.Business.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMAppDataLayer.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\EntityFramework.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Owin.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\WebGrease.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMApp.Business.pdb
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMAppDataLayer.pdb
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\CMAppDataLayer.dll.config
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\AutoMapper.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Chart.Mvc.pdb
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Chart.Mvc.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\EntityFramework.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\swaggy\CanteenApp\obj\Debug\Swaggy.App.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\swaggy\CanteenApp\obj\Debug\Swaggy.App.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\swaggy\CanteenApp\obj\Debug\Swaggy.App.csproj.CopyComplete
+C:\Users\user\Desktop\swaggy\CanteenApp\obj\Debug\CMApp.dll
+C:\Users\user\Desktop\swaggy\CanteenApp\obj\Debug\CMApp.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\ApplicationInsights.config
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\csc.exe
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\vbc.exe
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\VBCSCompiler.exe
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMApp.dll.config
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMApp.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMApp.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\AutoMapper.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Chart.Mvc.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMApp.Business.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMAppDataLayer.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\EntityFramework.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.Web.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Owin.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Helpers.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Mvc.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Razor.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.WebPages.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\WebGrease.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMApp.Business.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMAppDataLayer.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\CMAppDataLayer.dll.config
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\AutoMapper.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Chart.Mvc.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Chart.Mvc.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.Web.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Helpers.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Mvc.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.Razor.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.WebPages.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\EntityFramework.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\swaggy\Swaggy.App\obj\Debug\Swaggy.App.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\swaggy\Swaggy.App\obj\Debug\Swaggy.App.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\swaggy\Swaggy.App\obj\Debug\Swaggy.App.csproj.CopyComplete
+C:\Users\user\Desktop\swaggy\Swaggy.App\obj\Debug\CMApp.dll
+C:\Users\user\Desktop\swaggy\Swaggy.App\obj\Debug\CMApp.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\ApplicationInsights.config
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\csc.exe
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\vbc.exe
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMApp.dll.config
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMApp.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMApp.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Antlr3.Runtime.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\AutoMapper.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Chart.Mvc.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMApp.Business.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMAppDataLayer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\EntityFramework.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\EntityFramework.SqlServer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.Web.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Newtonsoft.Json.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Owin.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Helpers.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Mvc.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Optimization.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Razor.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.WebPages.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.WebPages.Razor.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\WebGrease.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMApp.Business.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMAppDataLayer.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\CMAppDataLayer.dll.config
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\AutoMapper.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Chart.Mvc.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Chart.Mvc.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.Web.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Newtonsoft.Json.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Helpers.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Mvc.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Optimization.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.Razor.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.WebPages.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\System.Web.WebPages.Razor.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Antlr3.Runtime.pdb
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\EntityFramework.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\EntityFramework.SqlServer.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\obj\Debug\Swaggy.App.csprojAssemblyReference.cache
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\obj\Debug\Swaggy.App.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\obj\Debug\Swaggy.App.csproj.CopyComplete
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\obj\Debug\CMApp.dll
+C:\Users\Dell Vostro\source\repos\Swaggy-Online-Store\Swaggy.App\obj\Debug\CMApp.pdb
